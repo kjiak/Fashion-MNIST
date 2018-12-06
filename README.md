@@ -1,3 +1,3 @@
 # FashionMNIST
 
-PLaying with FashionMNIST
+Prediction with FashionMNIST
