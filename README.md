@@ -1,3 +1,3 @@
 # FashionMNIST
 
-#Trying out
+PLaying with FashionMNIST
