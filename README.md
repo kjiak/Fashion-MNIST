@@ -1,3 +1,3 @@
-# FashionMNIST
+# Fashion-MNIST
 
-Prediction with FashionMNIST
+Prediction with Fashion-MNIST
